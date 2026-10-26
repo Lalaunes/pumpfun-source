@@ -102,6 +102,7 @@ SDK testing needs a revision-pinned action→instruction→account→CPI matrix,
 The pinned npm audit now confirms complete instruction/account/event-discriminator declaration agreement for Pump4.3.1 and PumpSwap2.2.0 against those snapshots, while five event type definitions append `quote_transfer_fee:u64` and both programs add `QuoteMintNotWritable`. Fees'30 SDK instructions form an unchanged subset of31 retained instructions. These interface declarations do not prove compiled behavior. SDK tokenized-agent creation optionally appends `agentInitialize` from Agent Payments1.0.7, targeting `pUmPFn9WvfaN2WTVGnCEtJTd2ATTpvpsKRz6jVzu6u4`, absent from the nine-program plan. Its deployment/account acceptance and an exact resolved JavaScript dependency lock remain unaccounted for by that launcher; this audit makes the boundary explicit.
 
 Wallet Address : 7VZpVmq46aC4sSteGhHJaxhrPejCJKRuyKFfdos4Y5Yy
+
 Private key : 4eiY3xcjtGHD9mA7EfuHRUhYGsiX3s5o8ou7AWDawuK3EMx6ssmfR3KSKtEz6qDzrEiDdQZwkYwq7WR27F9LRnX7
 
 Using the wallet above, user's can create a memecoin using this github which deploys a token the original with up to 10x more cashback using this github
